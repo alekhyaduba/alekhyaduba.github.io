@@ -6,11 +6,18 @@ description: MS in Computer Engineering (May'23) @ Texas A&M University, College
 #social_links:
 #  linkedin: https://www.linkedin.com/in/alekhya-duba/
 #linkedin_username: https://www.linkedin.com/in/alekhya-duba/
-social-network-links:
+navbar-links:
   email: "alekhya.duba@tamu.edu"
-#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  instagram: alekhya.shreedhar
-  linkedin: alekhya.duba
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+# social-network-links:
+#   email: "alekhya.duba@tamu.edu"
+# #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#   instagram: alekhya.shreedhar
+#   linkedin: alekhya.duba
 
 
 theme: jekyll-theme-minimal
