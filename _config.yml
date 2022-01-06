@@ -10,6 +10,7 @@ social-network-links:
   email: "alekhya.duba@tamu.edu"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   instagram: alekhya.shreedhar
+  linkedin: alekhya.duba
 
 
 theme: jekyll-theme-minimal
@@ -75,3 +76,8 @@ theme: jekyll-theme-minimal
 # - jekyll-feed
 # - jekyll-seo-tag
 #
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
