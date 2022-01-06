@@ -1,12 +1,12 @@
 title: Alekhya Duba
 description: MS in Computer Engineering (May'23) @ Texas A&M University, College Station, TX
 
-navbar-links:
-  email: "alekhya.duba@tamu.edu"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+# navbar-links:
+#   email: "alekhya.duba@tamu.edu"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
 
 # social-network-links:
 #   email: "alekhya.duba@tamu.edu"
@@ -19,6 +19,6 @@ theme: jekyll-theme-minimal
 
 
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
