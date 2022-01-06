@@ -6,6 +6,12 @@ description: MS in Computer Engineering (May'23) @ Texas A&M University, College
 #social_links:
 #  linkedin: https://www.linkedin.com/in/alekhya-duba/
 #linkedin_username: https://www.linkedin.com/in/alekhya-duba/
+social-network-links:
+  email: "alekhya.duba@tamu.edu"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  instagram: alekhya.shreedhar
+
+
 theme: jekyll-theme-minimal
 
 #
