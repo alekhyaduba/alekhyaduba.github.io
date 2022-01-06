@@ -10,7 +10,12 @@ Intelligence and Applied Machine Learning_**.
 
 I have worked as Senior Software Engineer, where I was primarily responsible to ensure product quality and deliverables.
 
-[Projects](Projects.md)
+###[Projects](Projects.md)
+###[Timeline](Timeline.md)
+
+### Resume
+
+
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
 
