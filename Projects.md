@@ -78,7 +78,7 @@ _python_
 
 ## Professional Projects
 
-### System Wide Testing Siemens
+### System Wide Testing @ Siemens
 _Test Owner, SCADA, PLC- S71500_
 
 •Led a team of 3 manual and automation testers to successfully test and provide early feedback on product
@@ -88,7 +88,7 @@ quality.
 
 •Managed test environment requirements for support across varied platforms.
 
-### CPM-Plant Intelligence Options-TIA WinCC Unified Siemens
+### CPM-Plant Intelligence Options-TIA WinCC Unified @ Siemens
 
 _Test Owner, SCADA, PLC- S71500, C# Automation_
 
@@ -100,7 +100,7 @@ _Test Owner, SCADA, PLC- S71500, C# Automation_
 
 •Designed and implemented automated smoke test projects.
 
-### Plant Intelligence Options Siemens
+### Plant Intelligence Options @ Siemens
 
 _Test Automation Engineer, C# , Visual Studio_
 
@@ -108,13 +108,13 @@ _Test Automation Engineer, C# , Visual Studio_
 
 •Developed and tested framework macros for new functionalities.
 
-### EY One Space- QIP SSRS TCS
+### EY One Space- QIP SSRS @ TCS
 _Database Test Analyst for SSRS Reports in QA and UAT_
 
 •Created SQL queries to validate the data in BI reports generated using product under test and identified 45%
 critical issues which were not possible manually.
 
-### Global Independence System TCS
+### Global Independence System @ TCS
 _Database Test Analyst, SIT_
 
 •Validated the flow of data from the front end to the database and linked tables.
