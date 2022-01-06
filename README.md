@@ -10,8 +10,10 @@ Intelligence and Applied Machine Learning_**.
 
 I have worked as Senior Software Engineer, where I was primarily responsible to ensure product quality and deliverables.
 
-### [Projects](Projects.md)
-### [Timeline](Timeline.md)
+### Projects
+Know more about my projects [here](Projects.md)
+
+[My Timeline](Timeline.md)
 
 ### Resume
 
