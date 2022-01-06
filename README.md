@@ -16,7 +16,9 @@ Know more about my projects [here](Projects.md)
 [My Timeline](Timeline.md)
 
 ### Resume
+Download my resume from [here](Alekhya_Single_page.pdf)
 
+Contact me @ alekhya.duba@tamu.edu
 
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
