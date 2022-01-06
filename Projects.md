@@ -3,7 +3,10 @@ Timeline
 
 2021 - Present : Graduate Student @ Texas A&M University, College Station.
 
-2020 - 2020 : CCE Proficiency course @ Indian Institute of Science, Bangalore.
+2020 - 2020 :
+CCE Proficiency course @ Indian Institute of Science, Bangalore.
+
+gfghbvb nvn
 
 2017 - 2021 : Senior Software Engineer @ Siemens Advanta.
 

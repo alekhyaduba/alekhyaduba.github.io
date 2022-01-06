@@ -4,12 +4,13 @@
 [comment]: <> (You can use the [editor on GitHub]&#40;https://github.com/alekhyaramarao/alekhyaramarao.github.io/edit/main/README.md&#41; to maintain and preview the content for your website in Markdown files.)
 I am interested in building Intelligent Systems that takes away the redundant work and allow us to work on new and exciting
 problems.
-I am currently pursuing my **Master's degree in Computer Engineering from CSE department at TAMU, College Station**, where my primary focus is in the field of **_Artificial
+
+I am currently pursuing my **Master's degree in Computer Engineering** from CSE department at TAMU, College Station, where my primary focus is in the field of **_Artificial
 Intelligence and Applied Machine Learning_**.
 
 I have worked as Senior Software Engineer, where I was primarily responsible to ensure product quality and deliverables.
 
-### 
+[Projects](Projects.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
