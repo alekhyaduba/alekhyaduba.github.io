@@ -1,4 +1,4 @@
-## Personal Projects
+## Projects
 
 
 ### Auto Drive Challenge.
