@@ -19,6 +19,7 @@ Know more about my projects [here](Projects.md)
 Download my resume from [here](Alekhya_Single_page.pdf)
 
 Contact me @ alekhya.duba@tamu.edu
+
 LinkedIn: [Alekhya Duba](https://www.linkedin.com/in/alekhya-duba/)
 HackerRank : [Alekhya Duba](https://www.hackerrank.com/alekhya_ramarao)
 
