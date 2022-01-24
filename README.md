@@ -3,10 +3,11 @@
 
 [comment]: <> (You can use the [editor on GitHub]&#40;https://github.com/alekhyaramarao/alekhyaramarao.github.io/edit/main/README.md&#41; to maintain and preview the content for your website in Markdown files.)
 I am interested in building Intelligent Systems that takes away the redundant work and allow us to work on new and exciting problems.
-I am currently pursuing my Master’s degree in Computer Engineering and my primary focus is in the field of Artificial Intelligence and Applied Machine Learning.
-I have worked on projects exploring the fields of Computer Vision/ Perception, Machine Learning Algorithms and Graphs.
+I am currently pursuing my **Master’s degree in Computer Engineering** and my primary focus is in the field of **Artificial Intelligence and Applied Machine Learning**.
+I have worked on projects exploring the fields of **Computer Vision/ Perception, Machine Learning Algorithms and Graphs**.
 
 I have 6+ years of experience as a Software/Systems Engineer.
+
 In my previous roles I have worked as:
 - Test Owner : 
 Responsible to lead a team of manual and automation testers and ensure the quality of a pilot SCADA product right from user story break down phase to Integration and System testing phase.
