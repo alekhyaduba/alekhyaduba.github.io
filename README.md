@@ -28,9 +28,11 @@ Know more about my projects [here](Projects.md)
 ### Resume
 Download my resume from [here](Alekhya_Single_page.pdf)
 
-Contact me @ alekhya.duba@tamu.edu
+### Contact me 
+Email: alekhya.duba@tamu.edu
 
 LinkedIn: [Alekhya Duba](https://www.linkedin.com/in/alekhya-duba/)
+
 HackerRank : [Alekhya Duba](https://www.hackerrank.com/alekhya_ramarao)
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
