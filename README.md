@@ -14,6 +14,7 @@ Responsible to lead a team of manual and automation testers and ensure the quali
  
 - Test Automation Design Engineer:
 Develop windows form applications to automate the user stories comprising of desktop applications and websites.
+
 Build mini frameworks that would reduce the user story automation time.
 
 - Database Test Analyst:
