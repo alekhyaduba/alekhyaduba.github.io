@@ -12,10 +12,10 @@ In my previous roles I have worked as:
 - **Test Owner** : 
 Responsible to lead a team of manual and automation testers and ensure the quality of a pilot SCADA product right from user story break down phase to Integration and System testing phase.
  
-- **Test Automation Design Engineer**:
+- **Automation Design Engineer**:
 Develop windows form applications to automate the user stories comprising of desktop applications and websites. Build mini frameworks that would reduce the user story automation time.
 
-- **Database Test Analyst**:
+- **Database Analyst**:
 Build complex SQL queries matching the business requirements and validate the reporting system under test.
 
 
