@@ -34,6 +34,9 @@ LinkedIn: [Alekhya Duba](https://www.linkedin.com/in/alekhya-duba/)
 
 HackerRank : [Alekhya Duba](https://www.hackerrank.com/alekhya_ramarao)
 
+Plum Profile: [Alekhya Duba](https://secure.plum.io/p/06EsisiuqeIn9iErmTmZ9w)
+
+
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
 
 <!-- ```markdown -->
