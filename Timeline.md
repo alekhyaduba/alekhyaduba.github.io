@@ -1,5 +1,6 @@
 ##Timeline
 
+2022 - Present : Student Assistant for CSCE 314- Programming 1
 
 2021 - Present : Graduate Student @ [Texas A&M University, College Station.](https://www.tamu.edu/)
 
