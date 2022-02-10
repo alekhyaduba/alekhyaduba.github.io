@@ -1,28 +1,29 @@
-<!-- ## Hello! -->
-### About
+## Hello!
 
 [comment]: <> (You can use the [editor on GitHub]&#40;https://github.com/alekhyaramarao/alekhyaramarao.github.io/edit/main/README.md&#41; to maintain and preview the content for your website in Markdown files.)
-I am interested in building Intelligent Systems that takes away the redundant work and allow us to work on new and exciting problems.
-I am currently pursuing my **Master’s degree in Computer Engineering** and my primary focus is in the field of **Artificial Intelligence and Applied Machine Learning**.
+## About me :
+I am one who is interested in building Intelligent Systems that takes away the redundant work and allow us to work on new and exciting problems.
+In few words, solving problems is what gives me the high and monotonocity is what I dread.
+I am currently pursuing my **Master’s degree in Computer Science** and my primary focus is in the field of **Applied Machine Learning**.
 I have worked on projects exploring the fields of **Computer Vision/ Perception, Machine Learning Algorithms and Graphs**.
 
 I have 6+ years of experience as a Software/Systems Engineer.
 
 In my previous roles I have worked as:
 - **Test Owner** : 
-Responsible to lead a team of manual and automation testers and ensure the quality of a pilot SCADA product right from user story break down phase to Integration and System testing phase.
+I led a team of manual and automation testers and ensure the quality of a pilot SCADA product right from user story break down phase to Integration and System testing phase.
+I was the youngest SME and Test Owner for one of the innovation line pilot project at Siemens DDI. I also worked and collaborated with multiple cross functional scrum teams at different phases. 
  
 - **Automation Design Engineer**:
-Develop windows form applications to automate the user stories comprising of desktop applications and websites. Build mini frameworks that would reduce the user story automation time.
+I developed windows form applications to automate the user stories comprising of desktop applications and websites (Selenium framework wrapper). Often when time permits, I used to design and build mini frameworks that would reduce the user story automation time.
 
 - **Database Analyst**:
-Build complex SQL queries matching the business requirements and validate the reporting system under test.
-
+I worked with finance data of one of the Big 4 companies, and validated their reporting system's results. I designed SQL queries and stored procedures to validate the data in the reporting system and was able to uncover 45% more issues than what were possible through UI testing. I also worked closely with DBA to detect the discrencies if any early on in the software cycle. I was awarded on multiple occasions for my contributions.
 
 ### Projects
-Know more about my projects [here](Projects.md)
+I like to implement what I learn and you can check out my personal and professional project details [here](Projects.md)
 
-[My Timeline](Timeline.md)
+[My Journey so far....](Timeline.md)
 
 ### Resume
 Download my resume from [here](Alekhya_Single_page.pdf)
