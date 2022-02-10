@@ -28,7 +28,7 @@ I like to implement what I learn and you can check out my personal and professio
 [My Journey so far....](Timeline.md)
 
 ### Resume
-Download my resume from [here](Alekhya_Duba_ML_CV.pdf)
+Download my resume from [here](Alekhya_Duba_website.pdf)
 
 ### Contact me 
 Email: alekhya.duba@tamu.edu
