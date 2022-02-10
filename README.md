@@ -2,8 +2,10 @@
 
 [comment]: <> (You can use the [editor on GitHub]&#40;https://github.com/alekhyaramarao/alekhyaramarao.github.io/edit/main/README.md&#41; to maintain and preview the content for your website in Markdown files.)
 # About me -
-I am one who is interested in building Intelligent Systems that takes away the redundant work and allow us to work on new and exciting problems.
+I am one who like to build Intelligent Systems that takes away the redundant work and allows us to work on new and exciting problems.
+
 In few words, solving problems is what gives me the high and monotonocity is what I dread.
+
 I am currently pursuing my **Master’s degree in Computer Science** and my primary focus is in the field of **Applied Machine Learning**.
 I have worked on projects exploring the fields of **Computer Vision/ Perception, Machine Learning Algorithms and Graphs**.
 
