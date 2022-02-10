@@ -20,7 +20,7 @@ I was the youngest SME and Test Owner for one of the innovation line pilot proje
 I developed windows form applications to automate the user stories comprising of desktop applications and websites (Selenium framework wrapper). Often when time permits, I used to design and build mini frameworks that would reduce the user story automation time.
 
 - **Database Analyst**:
-I worked with finance data of one of the Big 4 companies, and validated their reporting system's results. I designed SQL queries and stored procedures to validate the data in the reporting system and was able to uncover 45% more issues than what were possible through UI testing. I also worked closely with DBA to detect the discrencies if any early on in the software cycle. I was awarded on multiple occasions for my contributions.
+I worked with finance data of one of the Big 4 companies, and validated their reporting system's results. I designed SQL queries and stored procedures to validate the data in the reporting system and was able to uncover 45% more issues than what were possible through UI testing. I also worked closely with DBA to detect the discrepencies if any early on in the software cycle. I was awarded on multiple occasions for my contributions.
 
 ### Projects
 I like to implement what I learn and you can check out my personal and professional project details [here](Projects.md)
