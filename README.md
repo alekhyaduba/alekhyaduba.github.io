@@ -13,7 +13,7 @@ I have 6+ years of experience as a Software/Systems Engineer.
 
 In my previous roles I have worked as:
 - **Test Owner** : 
-I led a team of manual and automation testers and ensure the quality of a pilot SCADA product right from user story break down phase to Integration and System testing phase.
+I led a team of manual and automation testers and ensured the quality of a pilot SCADA product right from user story break down phase to Integration and System testing phase.
 I was the youngest SME and Test Owner for one of the innovation line pilot project at Siemens DDI. I also worked and collaborated with multiple cross functional scrum teams at different phases. 
  
 - **Automation Design Engineer**:
