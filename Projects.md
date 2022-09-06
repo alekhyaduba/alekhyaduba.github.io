@@ -10,6 +10,7 @@ _Django, Behave, Agile, Python_
 - Integrated a document sign feature using a dynamic pdf file generator.
 
 [Website](https://cameron-rv-park.herokuapp.com/)
+
 [GitHub](https://github.com/ras3701/Cameron-RV-Park)
 
 ### Reinforcement Learning Course Proects
@@ -22,6 +23,7 @@ _MLSH, MAML, DQN, Policy Gradients_
 - Implemented Value iteration, policy iteration and tabular Q learning algorithms for frozen lake environment.
 
 [GitHub](https://github.com/alekhyaduba/ReinforcementLearning/tree/main/RL_Projects_TAMU)
+
 [MAML vs MLSH](https://github.com/alekhyaduba/MLSH_V1)
 
 
