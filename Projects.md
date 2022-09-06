@@ -3,7 +3,7 @@
 
 ### Web Application for RV Park Lease Management
 
-_Django, Behave, Agile, Python
+_Django, Behave, Agile, Python_
 
 - Developed a web application for an RV park Lease management.
 - Designed the model, view and template files for the parking spot, parking category features.
@@ -14,7 +14,7 @@ _Django, Behave, Agile, Python
 
 ### Reinforcement Learning Course Proects
 
-_MLSH, MAML, DQN, Policy Gradients
+_MLSH, MAML, DQN, Policy Gradients_
 
 - Conducted a comparative study on Meta Learning algorithms like MAML( Model Agnostic Meta Learning) and MLSH (Meta Learning for Shared Hierarchies).
 - Implemented DQN without the help of existing libraries for lunar lander gym environment.
@@ -27,7 +27,7 @@ _MLSH, MAML, DQN, Policy Gradients
 
 ### Deep Learning Course Projects
 
-_Transformers, Keras, MatplotLib
+_Transformers, Keras, MatplotLib_
 
 - Designed deep learning models for classification of extremely noisy MNIST data, translation of machine language and
 next word prediction using models like LSTM, transformers etc.
