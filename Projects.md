@@ -1,6 +1,41 @@
 ## Projects
 
 
+## Web Application for RV Park Lease Management
+
+_Django, Behave, Agile, Python
+
+- Developed a web application for an RV park Lease management.
+- Designed the model, view and template files for the parking spot, parking category features.
+- Integrated a document sign feature using a dynamic pdf file generator.
+
+[Website](https://cameron-rv-park.herokuapp.com/)
+[GitHub](https://github.com/ras3701/Cameron-RV-Park)
+
+### Reinforcement Learning Course Proects
+
+_MLSH, MAML, DQN, Policy Gradients
+
+- Conducted a comparative study on Meta Learning algorithms like MAML( Model Agnostic Meta Learning) and MLSH (Meta Learning for Shared Hierarchies).
+- Implemented DQN without the help of existing libraries for lunar lander gym environment.
+- Implemented policy gradient algorithms for Point and Cartpole envrionments
+- Implemented Value iteration, policy iteration and tabular Q learning algorithms for frozen lake environment.
+
+[GitHub](https://github.com/alekhyaduba/ReinforcementLearning/tree/main/RL_Projects_TAMU)
+[MAML vs MLSH](https://github.com/alekhyaduba/MLSH_V1)
+
+
+### Deep Learning Course Projects
+
+_Transformers, Keras, MatplotLib
+
+- Designed deep learning models for classification of extremely noisy MNIST data, translation of machine language and
+next word prediction using models like LSTM, transformers etc.
+
+[GitHub](https://github.com/alekhyaduba/Machine-and-Deep-Learning-Projects)
+
+
+
 ### Auto Drive Challenge.
 
 _Perception, Computer Vision, YOLO, OpenCV_
@@ -61,6 +96,8 @@ neural network to solve the “Mountain Car” problem.
 
 •Using DQN, the “Mountain Car” problem was solved with stabilized results
 achieved in less than 300 episodes.
+
+[Github](https://github.com/alekhyaduba/ReinforcementLearning/tree/main/RL%20Project%20CCE)
 
 ### ML and RL Algorithms from Scratch
 
