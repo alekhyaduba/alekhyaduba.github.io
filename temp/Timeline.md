@@ -1,6 +1,8 @@
 ##Timeline
 
-2022 - Present : Intern @ [Cruise.](https://getcruise.com/)
+2023 - Present : Senior Software Engineer @ [Cruise.](https://getcruise.com/)
+
+2022 - 2022 : Intern @ [Cruise.](https://getcruise.com/)
 
 2022 - 2022 : Student Assistant for CSCE 314- Programming 1
 
